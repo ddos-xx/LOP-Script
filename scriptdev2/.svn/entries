@@ -1,0 +1,175 @@
+8
+
+dir
+1554
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+https://scriptdev2.svn.sourceforge.net/svnroot/scriptdev2
+
+
+
+2010-01-23T15:28:37.342298Z
+1554
+nofantasy
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5f9c896b-1e26-0410-94da-f77f675e2462
+
+scriptdev2.conf.dist.in
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+59405b8ae92f0ab5291b5cc0b583498c
+2009-04-05T20:20:31.260995Z
+986
+nofantasy
+has-props
+
+VC80
+dir
+
+VC90
+dir
+
+include
+dir
+
+system
+dir
+
+scripts
+dir
+
+patches
+dir
+
+docs
+dir
+
+config.h
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+f7bc128fbeb903b9fca813ac8bfafd4f
+2009-08-16T00:13:00.593414Z
+1344
+nofantasy
+has-props
+
+ScriptMgr.cpp
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+b8ca35a0eae95cc161192e06031491b7
+2010-01-01T23:51:11.692998Z
+1537
+nofantasy
+has-props
+
+sql
+dir
+
+ScriptMgr.h
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+2e07772e3f8f8cd5b91c8fa3a22298cb
+2010-01-01T23:51:11.692998Z
+1537
+nofantasy
+has-props
+
+LICENSE.txt
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+46b39127c800ae9546b0675c7dc36190
+2007-05-12T19:27:23.860831Z
+43
+ntsc
+has-props
+
+config.h.in
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+f7bc128fbeb903b9fca813ac8bfafd4f
+2009-08-03T12:59:25.920490Z
+1297
+nofantasy
+has-props
+
+scriptVC80.sln
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+5d56984aaf12799735c34e3558cf285e
+2008-09-29T12:18:14.541211Z
+670
+nofantasy
+has-props
+
+scriptVC90.sln
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+be2c6ada2f54f5183e4dccd1d633f54a
+2008-09-29T12:18:14.541211Z
+670
+nofantasy
+has-props
+
+Makefile.am
+file
+
+
+
+
+2010-01-26T12:00:05.000000Z
+52bc7e314d7a5be50ec2b443981d8e38
+2010-01-23T15:28:37.342298Z
+1554
+nofantasy
+has-props
+
+base
+dir
+
+tool
+dir
+
